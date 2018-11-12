@@ -12,7 +12,6 @@ The [Kanban](https://github.com/Mercury-Leo/Yedidim-Team-7/projects/1) of the pr
 
 [Product page](https://github.com/Mercury-Leo/Yedidim-Team-7/wiki/Product)
 
-[Link of project chat room](https://gitter.im/yedidim)
 
 [Link for Task Management System](https://github.com/Mercury-Leo/Yedidim-Team-7/issues)
 
@@ -32,7 +31,7 @@ The [Kanban](https://github.com/Mercury-Leo/Yedidim-Team-7/projects/1) of the pr
 
 [Iteration Goals](https://github.com/Mercury-Leo/Yedidim-Team-7/wiki/Iter1---MVP#iteration-goals)    
 
-[Team Members Roles](https://github.com/Mercury-Leo/Yedidim-Team-7/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22Inter1+-+MVP%22)  
+
 
   
 ![Screenshot](https://camo.githubusercontent.com/ce9b647b44dd4882acbd4ce25a62d224de9d724e/68747470733a2f2f692e696d6775722e636f6d2f61734d3654527a2e706e67) 

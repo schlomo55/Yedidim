@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "825991088727",
+    "firebase_url": "https://teams-yedidim.firebaseio.com",
+    "project_id": "teams-yedidim",
+    "storage_bucket": "teams-yedidim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825991088727:android:18f3c8401f40e624",
+        "android_client_info": {
+          "package_name": "com.example.schlomo.test7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825991088727-avaj0o1l6ihj3qdo3v20biace5q3noj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvK_TbYORVGtP8_zGQ5yn56k8-RL7I0Do"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

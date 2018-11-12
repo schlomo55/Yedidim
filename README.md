@@ -8,20 +8,14 @@ The application will serve as a major tool in Yedidim’s “end of the road” 
 
 ![logo](https://firebasestorage.googleapis.com/v0/b/exercice1-c7ffc.appspot.com/o/img6.jpg?alt=media&token=14d1e3b3-e471-4512-8071-a9d2c5585dc6)
 
-The [Kanban](https://github.com/Mercury-Leo/Yedidim-Team-7/projects/1) of the project
-
-[Product page](https://github.com/Mercury-Leo/Yedidim-Team-7/wiki/Product)
 
 
-[Link for Task Management System](https://github.com/Mercury-Leo/Yedidim-Team-7/issues)
+[Product page](https://github.com/schlomo55/Yedidim/wiki/Product)
 
-[GitHub of the course](https://github.com/orgs/jce-il/teams/se2018b)
 
-[User Manual](https://github.com/Mercury-Leo/Yedidim-Team-7/wiki/User-Manual)
+[User Manual](https://github.com/schlomo55/Yedidim/wiki/User-Manual)
 
-[User Page](https://github.com/Mercury-Leo/Yedidim-Team-7/wiki/Team-Page)
-
-[Inception/Planning Page](https://github.com/Mercury-Leo/Yedidim-Team-7/wiki/inception)
+[Inception/Planning Page](https://github.com/schlomo55/Yedidim/wiki/inception)
  
 [Yedidim organization site](http://www.yedidim.org.il/home)
 
@@ -29,7 +23,7 @@ The [Kanban](https://github.com/Mercury-Leo/Yedidim-Team-7/projects/1) of the pr
 
 ## Iteration 1 - Minimum viable product  
 
-[Iteration Goals](https://github.com/Mercury-Leo/Yedidim-Team-7/wiki/Iter1---MVP#iteration-goals)    
+[Iteration Goals](https://github.com/schlomo55/Yedidim/wiki/Iter1---MVP#iteration-goals)    
 
 
 
@@ -42,12 +36,10 @@ The [Kanban](https://github.com/Mercury-Leo/Yedidim-Team-7/projects/1) of the pr
  
 
 
-[Code surveys](https://github.com/Mercury-Leo/Yedidim-Team-7/issues/13)      
-
-[Meeting summaries](https://github.com/Mercury-Leo/Yedidim-Team-7/wiki/Iter1---MVP#meeting-summaries) 
+[Meeting summaries](https://github.com/schlomo55/Yedidim/wiki/Iter1---MVP#meeting-summaries) 
 
 
 
 ### Next Iteration Planning:
-#### [Inter2](https://github.com/Mercury-Leo/Yedidim-Team-7/wiki/Iter1---MVP#next-iteration-planning)     
+#### [Inter2](https://github.com/schlomo55/Yedidim/wiki/Iter1---MVP#next-iteration-planning)     
 
